@@ -176,6 +176,11 @@ strong{
         width: 100%;
     }
 
+    .circle1{
+        height: 270px;
+        width: 270px;
+    }
+
     .navlist{
         gap: 15px;
     }
@@ -185,6 +190,13 @@ strong{
         
     }
 
+    .container1{
+        width: 100%;
+    }
+     
+    .content1{
+        width: 90%;
+    }
 
 
 
